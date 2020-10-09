@@ -171,12 +171,12 @@ int main(){
 /* outputs:
 screen1 added
 screen2 added
-screen screen1 already exist
 seat booked
 seat booked
 booking not possible
 1 2 3 4 5 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25
-seat booked
-booking not possible
+2 3 4
+4 5 6 7
+none
 //@uthor Chandragupta:-)
 */
